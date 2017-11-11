@@ -1,0 +1,11 @@
+Plugins>
+Symfony Plugin
+Php Annotation
+Enable Plugin for this Project
+var
+var
+
+Symfony Install>
+
+php -r "file_put_contents('symfony', file_get_contents('https://symfony.com/installer'));"
+symfony new my_project_name
