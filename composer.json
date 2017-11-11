@@ -1,0 +1,12 @@
+{
+    "name": "vendor/symfonycrud",
+    "description": "Crud aplikacija Symfony",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Strahinja Gajic",
+            "email": "sakigajic96@gmail.com"
+        }
+    ],
+    "require": {}
+}
